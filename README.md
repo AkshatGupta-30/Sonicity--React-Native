@@ -1,5 +1,5 @@
 # Sonicity [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/AkshatGupta-30/Sonicity--Flutter/blob/main/LICENSE)  
-Sonicity is a Flutter-based mobile application that leverages the JioSaavn API to provide users with an immersive audio experience. The project is structured to offer a seamless and intuitive user interface, making it easy for users to navigate through different functionalities such as browsing, searching, and playing music tracks available via the JioSaavn API.
+Sonicity is a React Native-based mobile application that leverages the JioSaavn API to provide users with an immersive audio experience. The project is structured to offer a seamless and intuitive user interface, making it easy for users to navigate through different functionalities such as browsing, searching, and playing music tracks available via the JioSaavn API.
 
 ----
 
