@@ -58,7 +58,7 @@ Sonicity is a React Native-based mobile application that leverages the JioSaavn 
 ----
 
 ## Technical Stack:
-- **Flutter:** For building a cross-platform mobile application.
+- **React Native:** For building a cross-platform mobile application.
 - **GetX:** Used for state management, routing, and dependency injection.
 - **JioSaavn API:** For accessing a wide range of music content.
 
